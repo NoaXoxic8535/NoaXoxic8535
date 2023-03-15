@@ -7,7 +7,7 @@
 
 ***
 
-- :telescope: I'm working on [**Fluxify's Workshop**]()
+- :telescope: I'm working on [**Fluxify's Workshop**](https://discord.gg/gkvwcrDS5Y)
 
 - :seedling: I'm coding the languages: Javascript, HTML, Typescript, Python
 
